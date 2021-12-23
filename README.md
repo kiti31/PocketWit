@@ -11,7 +11,7 @@ Some of the functions included are, a note-taking function, a quiz function whic
 In order to build our app, Pocket Wit, we used Android Studio. With Android Studio, the structured code modules allowed us to divide our project into units of functionality that we could independently build, test and debug.
 
 
-#### Specification
+### Specification
 This app is built for Huawei Mate 20 Pro & Similar Phone Size / Resolution
 
 Phone Size 		: 6.39 inches, 100.2 cm2 (~87.9% screen-to-body ratio)
