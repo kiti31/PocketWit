@@ -27,11 +27,11 @@ For future development, we will create more layout to make it compatible will al
 
 Group Members : 
 
-SAIFUL NAQUIB BIN MOHD YUSOFF	149941	saifulnaquib@student.usm.my
+SAIFUL NAQUIB BIN MOHD YUSOFF	
 
-PAMELA RABECCA SARASWATHY	146958	pamelarabecca12@gmail.com
+PAMELA RABECCA SARASWATHY	
 
-RAFIA HOSSAIN			149684	otherwiserh@gmail.com
+RAFIA HOSSAIN		
 
-KIRTINIROOPA SHANKAR		146127	kirtini31@student.usm.my
+KIRTINIROOPA SHANKAR		
  
